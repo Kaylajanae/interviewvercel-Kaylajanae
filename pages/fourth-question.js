@@ -9,7 +9,7 @@ export default function FourthQuestion(){
 
 In the configuration file, replace the placeholder `"https://www.example.com"` with the actual URL to which you want to redirect the "/blog" path. The `:path*` placeholder captures any additional path segments and forwards them to the destination URL. Once you've made this change, don't forget to deploy your project on Vercel again to apply the redirection rule. You can also ask the community on GitHub Discussions.
 
-We hope this helps!
+We hope this helps.
 </p>
         <h2>
             <Link href="/">Back to home</Link>
